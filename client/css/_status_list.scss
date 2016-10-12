@@ -3,6 +3,7 @@
   background-color: $bg-lightgrey;
   @include border-radius(0px 0px 4px 4px);
   overflow-y: auto;
+  overflow-x: auto;
 
   .title {
     text-align: center;
